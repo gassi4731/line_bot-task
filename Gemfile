@@ -4,7 +4,7 @@ source "https://rubygems.org"
 gem 'rake'
 gem 'sinatra'
 gem 'sinatra-contrib'
-gem 'activerecord' ,  '5.2.3'
+gem 'activerecord' ,  '5.2.4.5'
 gem 'sinatra-activerecord'
 gem 'cloudinary'
 gem 'dotenv'
